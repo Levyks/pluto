@@ -1,3 +1,9 @@
+# Pluto
+
+Copy of [Termo](https://term.ooo/)
+
+Demo available in [https://levyks.com/pluto](https://levyks.com/pluto)
+
 # Svelte + TS + Vite
 
 This template should help get you started developing with Svelte and TypeScript in Vite.
